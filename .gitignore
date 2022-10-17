@@ -1,0 +1,7 @@
+# Project exclude paths
+/itheima-leadnews-api/itheima-leadnews-admin-api/target/
+/itheima-leadnews-common/target/
+/itheima-leadnews-core/itheima-leadnews-core-controller/target/
+/itheima-leadnews-core/itheima-leadnews-core-knife4j/target/
+/itheima-leadnews-gateway/itheima-leadnews-gateway-admin/target/
+/itheima-leadnews-service/itheima-leadnews-service-admin/target/
